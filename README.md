@@ -1,4 +1,8 @@
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Suresh" alt="Typing SVG" />
+</h1>
+
 # 💫 About Me:
 Hi, I'm Suresh, a UI/UX Designer passionate about crafting intuitive and engaging digital experiences.<br>
 I focus on designing clean, user-friendly interfaces for both web and mobile platforms.
@@ -29,6 +33,8 @@ I focus on designing clean, user-friendly interfaces for both web and mobile pla
 
 ## 🎮 Fun Corner: SVG Game Loop
 <img src="game-loop.svg" width="100%" />
+## 🎮 Fun Corner: SVG Game Loop
+<img src="snake.svg" width="100%" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sureshjayachandhiran&icon=0&color=0)](https://visitcount.itsvg.in)
