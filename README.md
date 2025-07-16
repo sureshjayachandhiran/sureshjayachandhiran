@@ -28,7 +28,7 @@ I focus on designing clean, user-friendly interfaces for both web and mobile pla
 ![](https://github-contributor-stats.vercel.app/api?username=sureshjayachandhiran&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🎮 Fun Corner: SVG Game Loop
-<img src="game-loop.svg" width="300" />
+<img src="game-loop.svg" width="100%" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sureshjayachandhiran&icon=0&color=0)](https://visitcount.itsvg.in)
