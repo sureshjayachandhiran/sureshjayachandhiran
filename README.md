@@ -33,7 +33,7 @@ I focus on designing clean, user-friendly interfaces for both web and mobile pla
 
 ## 🎮 Fun Corner: SVG Game Loop
 <img src="game-loop.svg" width="100%" />
- 🎮 Fun Corner: SVG Game Loop
+ 🎮 **Fun Corner: SVG Game Loop**
 <img src="snake.svg" width="100%" />
 
 ---
