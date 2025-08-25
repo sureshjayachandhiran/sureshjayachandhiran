@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2000&pause=1000&color=FF5733&width=400&lines=Web+Designer" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2000&pause=1000&color=FFFFFF&width=400&lines=Suresh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Web+Designer;Suresh" alt="Typing SVG" />
 </h1>
 
 # 💫 About Me:
