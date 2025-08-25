@@ -33,8 +33,9 @@ I focus on designing clean, user-friendly interfaces for both web and mobile pla
 
 ## 🎮 Fun Corner: SVG Game Loop
 <img src="game-loop.svg" width="100%" />
-## 🎮 Fun Corner: SVG Game Loop
 <img src="snake.svg" width="100%" />
+## 🎮 Fun Corner: SVG Game Loop
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sureshjayachandhiran&icon=0&color=0)](https://visitcount.itsvg.in)
