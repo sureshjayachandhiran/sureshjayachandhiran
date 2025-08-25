@@ -13,6 +13,7 @@ I focus on designing clean, user-friendly interfaces for both web and mobile pla
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leosuresh0114@gmail.com)
 
 # 💻 Tech Stack:
+![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
