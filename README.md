@@ -7,7 +7,7 @@ Hi, I'm Suresh, a Web Designer passionate about crafting intuitive and engaging 
 I focus on designing clean, user-friendly interfaces for both web and mobile platforms.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mr.fault_in?igsh=OG9lZTltdnBmaDl2)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr.fault_in?igsh=OG9lZTltdnBmaDl2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/sureshjece)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leosuresh0114@gmail.com)
 
