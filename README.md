@@ -19,17 +19,6 @@ Suresh Jayachandhiran is a Graphic Designer and Web Designer specializing in UI/
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sureshjayachandhiran&theme=dark)
-![](https://nirzak-streak-stats.vercel.app/?user=sureshjayachandhiran&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshjayachandhiran&theme=dark&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sureshjayachandhiran&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sureshjayachandhiran&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ## 🎮 Fun Corner: SVG Games
 <img src="game-loop.svg" width="100%" />
 <img src="snake.svg" width="100%" />
