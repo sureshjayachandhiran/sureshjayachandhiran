@@ -1,14 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Web+Designer;Suresh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Graphic+Designer;Suresh" alt="Typing SVG" />
 </h1>
 
 # 💫 About Me:
-Hi, I'm Suresh, a Web Designer passionate about crafting intuitive and engaging digital experiences.<br>
-I focus on designing clean, user-friendly interfaces for both web and mobile platforms.
+Suresh Jayachandhiran is a Graphic Designer and Web Designer specializing in UI/UX design, branding, and modern visual experiences. Explore his creative portfolio and design projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr.fault_in?igsh=OG9lZTltdnBmaDl2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/sureshjece)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sureshjayachandhiran)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leosuresh0114@gmail.com)
 
 # 💻 Tech Stack:
